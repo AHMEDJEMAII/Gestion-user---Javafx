@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ahmed.jnlp">
+  <information>
+    <title>ahmed</title>
+    <vendor>chaker</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ahmed.jar" size="62488" download="eager" />
+    <jar href="lib\commons-codec-1.15.jar" size="353793" download="eager" />
+    <jar href="lib\commons-io-2.7.jar" size="276413" download="eager" />
+    <jar href="lib\commons-logging-1.2.jar" size="61829" download="eager" />
+    <jar href="lib\controlsfx-8.0.1.jar" size="296347" download="eager" />
+    <jar href="lib\controlsfx-8.40.11.jar" size="985420" download="eager" />
+    <jar href="lib\core-3.4.1.jar" size="539286" download="eager" />
+    <jar href="lib\core-java6-3.2.0.jar" size="544897" download="eager" />
+    <jar href="lib\fontbox-3.0.0-alpha3.jar" size="1606337" download="eager" />
+    <jar href="lib\httpclient-4.5.13.jar" size="780321" download="eager" />
+    <jar href="lib\httpcore-4.4.13.jar" size="328593" download="eager" />
+    <jar href="lib\jackson-annotations-2.14.0.jar" size="76091" download="eager" />
+    <jar href="lib\jackson-core-2.14.0.jar" size="458975" download="eager" />
+    <jar href="lib\jackson-databind-2.14.0.jar" size="1618273" download="eager" />
+    <jar href="lib\jackson-dataformat-xml-2.14.0.jar" size="130374" download="eager" />
+    <jar href="lib\jackson-datatype-jsr310-2.14.0.jar" size="122014" download="eager" />
+    <jar href="lib\javaee.jar" size="1062435" download="eager" />
+    <jar href="lib\javase-java6-3.2.0.jar" size="38268" download="eager" />
+    <jar href="lib\javax.mail-api-1.4.7.jar" size="189526" download="eager" />
+    <jar href="lib\javax.mail.jar" size="659033" download="eager" />
+    <jar href="lib\jjwt-api-0.11.2.jar" size="78784" download="eager" />
+    <jar href="lib\jjwt-impl-0.11.2.jar" size="78853" download="eager" />
+    <jar href="lib\jjwt-jackson-0.11.2.jar" size="8400" download="eager" />
+    <jar href="lib\json-20220320.jar" size="70939" download="eager" />
+    <jar href="lib\mysql-connector-j-8.0.31.jar" size="2515519" download="eager" />
+    <jar href="lib\pdfbox-1.7.1.jar" size="3910899" download="eager" />
+    <jar href="lib\pdfbox-2.0.27.jar" size="2776232" download="eager" />
+    <jar href="lib\pdfbox-app-3.0.0-alpha3.jar" size="10877250" download="eager" />
+    <jar href="lib\pdfbox-tools-3.0.0-alpha3.jar" size="90972" download="eager" />
+    <jar href="lib\slf4j-api-1.7.30.jar" size="41472" download="eager" />
+    <jar href="lib\stax2-api-4.2.1.jar" size="195909" download="eager" />
+    <jar href="lib\twilio-9.2.0.jar" size="4777769" download="eager" />
+    <jar href="lib\twilio-9.2.3.jar" size="4883317" download="eager" />
+    <jar href="lib\woodstox-core-6.4.0.jar" size="1586060" download="eager" />
+    <jar href="lib\zxing.jar" size="191436" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="ahmed.Ahmed"  name="ahmed" />
+  <update check="always"/>
+</jnlp>
